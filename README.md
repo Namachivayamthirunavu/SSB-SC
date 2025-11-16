@@ -1,5 +1,7 @@
 # SSB
+Name: Namachivayam T
 
+Reg No: 212223060179
 ### EXP NO: 3	SSB-SC-AM MODULATION using SCILAB
 
 ### AIM:
